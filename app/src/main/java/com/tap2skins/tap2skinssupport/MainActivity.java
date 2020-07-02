@@ -22,6 +22,7 @@ public class MainActivity extends AppCompatActivity {
                 startActivity(intent);
                 //deo beit dang lam gi nua
                 //the thi dung lam nua
+                //kho dung vl
             }
         });
 
