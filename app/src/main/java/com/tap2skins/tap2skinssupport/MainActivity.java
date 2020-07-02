@@ -21,6 +21,7 @@ public class MainActivity extends AppCompatActivity {
                 Intent intent = new Intent(MainActivity.this, SteamLoadingActivity.class);
                 startActivity(intent);
                 //deo beit dang lam gi nua
+                //the thi dung lam nua
             }
         });
 
